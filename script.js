@@ -3,6 +3,7 @@ console.log('JS');
 
 //PREPARO LA LISTA DEGLI OGGETTI DA COMPRARE:
 const items = ['Pane', 'Focaccia', 'Pizza', 'Piadina', 'Panino']
+console.log(items);
 
 //STAMPIAMO IN PAGINA:
 let shoppingList = '<ul>';
